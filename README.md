@@ -15,11 +15,12 @@ To use this script, you'll need Python installed on your computer, along with th
 Follow these steps to use the script:
 
 1. Start Skyrim and load your game.
-2. Position your character in a safe place where they can cast healing spells without interruptions.
+2. Position your character in mountain top where snow storm will damage you over time (it works only before meeting Paarthurnax, or any other env damaging places if you find one).
 3. Run the script by executing the following command in your terminal or command prompt:
 `python skyrim_magic_leveling.py`
-4. Press the '\\' key to start the script. The script will simulate left and right mouse clicks to cast the healing spell.
-5. To stop the script, press the '\\' key again. The script will cease operations and exit.
+4. Press the '\\' key to start the script. The script will simulate left and right mouse clicks to cast the healing spell while moving forward and backwards.
+5. Make some iterations to find a best starting point.
+6. To stop the script, press the '\\' key again. The script will cease operations and exit.
 
 **Note:** The script uses the '\\' key to toggle its operation. Ensure this key is not bound to any critical functions in-game to avoid unintended behavior.
 
